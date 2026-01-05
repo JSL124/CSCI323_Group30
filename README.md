@@ -43,6 +43,7 @@ This pipeline demonstrates how image recognition and search algorithms can work 
   
 ### Clone the Repository
 
+'''bash
 git clone https://github.com/cyuanjun/CSCI323_Group30.git
 cd CSCI323_Group30
 Setup Virtual Environment
