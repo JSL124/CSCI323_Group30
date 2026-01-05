@@ -46,61 +46,81 @@ This pipeline demonstrates how image recognition and search algorithms can work 
 ```bash
 git clone https://github.com/cyuanjun/CSCI323_Group30.git
 cd CSCI323_Group30
+```
 
 ## Setup Virtual Environment
 
+```bash
 python -m venv .venv
 # For Windows
 .\.venv\Scripts\activate
 # For Mac/Linux
 source .venv/bin/activate
-Install Dependencies
+```
 
+## Install Dependencies
+
+```bash
 pip install numpy opencv-python tensorflow matplotlib
-Running the Sudoku Solver
+```
 
-Run main.py:
+# Running the Sudoku Solver
+
+1. Run main.py:
+
+```bash
 python FINAL_SUBMISSION/main.py
-Input Sudoku image path:
+```
+2. Input Sudoku image path:
+
+```bash
 Enter path of sudoku image to be solved or (N) to end:
 # enter your image path e.g Images/img1.png
-After the outputs for each stage (image preprocessing and Sudoku solving) are displayed, press any key to proceed to the next step.
+```
+
+3. After the outputs for each stage (image preprocessing and Sudoku solving) are displayed, press any key to proceed to the next step.
+   
 # Files
 
-Image Recognition
+## Image Recognition
 
-FINAL_image_processing.py
-FINAL_digit_recognition.py
-Solving
+- FINAL_image_processing.py
+- FINAL_digit_recognition.py
 
-DegMRVFV_sudoku_solver.py
-IcvDegMrvFc_sudoku_solver.py
-MRV_sudoku_solver.py
-MRVFC_sudoku_solver.py
-sudoku_metrics.py
-sudoku_solver.py
-Main
+## Solving
 
-main.py
-Models
+- DegMRVFV_sudoku_solver.py
+- IcvDegMrvFc_sudoku_solver.py
+- MRV_sudoku_solver.py
+- MRVFC_sudoku_solver.py
+- sudoku_metrics.py
+- sudoku_solver.py
+  
+## Main
 
-printed_digits_cnn.keras
+- main.py
+
+## Models
+
+- printed_digits_cnn.keras
+  
 # Dataset
 
 Dataset and web sources we used for the development of our model.
 
-Kaggle: Printed Digits Dataset
-Testing Images 1
-Testing Images 2
+[Kaggle: Printed Digits Dataset](https://www.kaggle.com/datasets/kshitijdhama/printed-digits-dataset/versions/56)
+[Testing Images 1](https://www.sudokuweb.org)
+[Testing Images 2](https://www.websudoku.com)
+
 # Authors
 
-Group name: FT30
+### Group name: FT30
 
-Project number: 13
+### Project number: 13
 
-Members:
+### Members:
 
-Lee Haeeun
-Chia Yuan Jun
-Lee Jinseo
-Nadon Panwong
+- Lee Haeeun
+- Chia Yuan Jun
+- Lee Jinseo
+- Nadon Panwong
