@@ -10,9 +10,10 @@ This project focuses on developing an automated Sudoku solver that integrates im
 
 The project aims to create an end-to-end AI system capable of:
 
-Extracting and segmenting Sudoku grids from input images.
-Recognizing digits using a trained Convolutional Neural Network (CNN) model.
-Solving the puzzle logically through a CSP-based backtracking algorithm.
+  1. Extracting and segmenting Sudoku grids from input images.
+  2. Recognizing digits using a trained Convolutional Neural Network (CNN) model.
+  3. Solving the puzzle logically through a CSP-based backtracking algorithm
+     
 This pipeline demonstrates how image recognition and search algorithms can work together to solve structured reasoning tasks.
 
 # Getting Started
