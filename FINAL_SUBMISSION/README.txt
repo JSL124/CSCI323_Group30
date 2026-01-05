@@ -57,6 +57,6 @@
 
 ## Dataset Used
 
-- https://www.kaggle.com/datasets/kshitijdhama/printed-digits-dataset/versions/56  
+- [https://www.kaggle.com/datasets/kshitijdhama/printed-digits-dataset/versions/56](https://www.kaggle.com/datasets/kshitijdhama/printed-digits-dataset/versions/56)  
 - Remove the extra folder **"10"** in the assets directory before training
 
