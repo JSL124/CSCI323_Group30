@@ -18,26 +18,30 @@ This pipeline demonstrates how image recognition and search algorithms can work 
 
 # Getting Started
 
-Built using:
+### Built using:
 
-Python
-Packages used:
+- Python
+  
+### Packages used:
 
-Numpy
-OpenCV
-Tensorflow
-Matplotlib.
-Environment:
+- Numpy
+- OpenCV
+- Tensorflow
+- Matplotlib.
 
-Python virtual environment
-Algorithm applied:
+### Environment:
 
-Basic Backtracking
-Minimum Remaining Value
-Foward Checking
-Degree Hueristic
-Least Constraining Value.
-Clone the Repository
+- Python virtual environment
+  
+### Algorithm applied:
+
+- Basic Backtracking
+- Minimum Remaining Value
+- Foward Checking
+- Degree Hueristic
+- Least Constraining Value.
+  
+### Clone the Repository
 
 git clone https://github.com/cyuanjun/CSCI323_Group30.git
 cd CSCI323_Group30
