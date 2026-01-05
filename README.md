@@ -46,7 +46,8 @@ This pipeline demonstrates how image recognition and search algorithms can work 
 ```bash
 git clone https://github.com/cyuanjun/CSCI323_Group30.git
 cd CSCI323_Group30
-Setup Virtual Environment
+
+## Setup Virtual Environment
 
 python -m venv .venv
 # For Windows
