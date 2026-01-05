@@ -109,7 +109,9 @@ Enter path of sudoku image to be solved or (N) to end:
 Dataset and web sources we used for the development of our model.
 
 - [Kaggle: Printed Digits Dataset](https://www.kaggle.com/datasets/kshitijdhama/printed-digits-dataset/versions/56)
+  
 - [Testing Images 1](https://www.sudokuweb.org)
+  
 - [Testing Images 2](https://www.websudoku.com)
 
 # Authors
