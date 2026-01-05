@@ -4,7 +4,7 @@ An automatic Sudoku Solver utilising Computer Vision to identify the Sudoku grid
 
 This project focuses on developing an automated Sudoku solver that integrates image recognition with algorithmic reasoning. The system takes an image of an unsolved Sudoku puzzle, processes it to detect and recognize digits, and applies a backtracking algorithm to generate a valid completed grid.
 
-Presentation Slides  Presentation Video
+[Presentation Slides](https://docs.google.com/presentation/d/1hCGh7zgCO9fUspghddKswMbwv7Oy44Nz9_8gRTmTEZE/edit?slide=id.gc6f80d1ff_0_0#slide=id.gc6f80d1ff_0_0)  [Presentation Video](https://www.youtube.com/watch?v=Mj550KaI3u0&t=183s)
 
 # Objective
 
