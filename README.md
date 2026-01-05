@@ -6,7 +6,7 @@ This project focuses on developing an automated Sudoku solver that integrates im
 
 Presentation Slides  Presentation Video
 
-Objective
+# Objective
 
 The project aims to create an end-to-end AI system capable of:
 
@@ -15,7 +15,7 @@ Recognizing digits using a trained Convolutional Neural Network (CNN) model.
 Solving the puzzle logically through a CSP-based backtracking algorithm.
 This pipeline demonstrates how image recognition and search algorithms can work together to solve structured reasoning tasks.
 
-Getting Started
+# Getting Started
 
 Built using:
 
@@ -58,7 +58,7 @@ Input Sudoku image path:
 Enter path of sudoku image to be solved or (N) to end:
 # enter your image path e.g Images/img1.png
 After the outputs for each stage (image preprocessing and Sudoku solving) are displayed, press any key to proceed to the next step.
-Files
+# Files
 
 Image Recognition
 
@@ -78,14 +78,14 @@ main.py
 Models
 
 printed_digits_cnn.keras
-Dataset
+# Dataset
 
 Dataset and web sources we used for the development of our model.
 
 Kaggle: Printed Digits Dataset
 Testing Images 1
 Testing Images 2
-Authors
+# Authors
 
 Group name: FT30
 
